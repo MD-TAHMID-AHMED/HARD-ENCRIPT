@@ -3,4 +3,4 @@
 
 • cd HARD-ENCRIPT
 
-• python3 HARD-ENCRIPT.py
+• python3 PY3-ENC.py
